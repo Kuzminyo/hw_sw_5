@@ -2,15 +2,15 @@
 
 Консольна утиліта та websocket-чат, які отримують курси валют із [публічного API ПриватБанку](https://api.privatbank.ua/#p24/exchangeArchive) (архів курсів).
 
-Репозиторій: https://github.com/Kuzminyo/hw_sw_6.git
+Репозиторій: https://github.com/Kuzminyo/hw_sw_5.git
 
 ## Встановлення
 
 Потрібен Python 3.10+.
 
 ```
-git clone https://github.com/Kuzminyo/hw_sw_6.git
-cd hw_sw_6
+git clone https://github.com/Kuzminyo/hw_sw_5.git
+cd hw_sw_5
 pip install -r requirements.txt
 ```
 
